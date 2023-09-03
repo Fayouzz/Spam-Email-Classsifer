@@ -36,7 +36,7 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/mfaisalqu
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/spamemailclassifier.git
+   git clone https://github.com/Fayouzz/Spam-Email-Classsifer.git
 2. Navigate to the project directory:
    ```bash
    cd spamemailclassifier
